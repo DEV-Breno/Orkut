@@ -1,0 +1,36 @@
+body {
+	background-color: #D4DDED;
+	margin: 0px;
+	font-family: "latolight", Helvetica, sans-serif;
+	line-height: 1.6em;
+}
+#cabecalho {
+	text-align: center;
+	margin: 60px;
+}
+img {
+	width: 670px;
+	height: 200px;
+}
+#menu, #conteudo {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+#menu {
+	color: #6e96d5;
+	margin-bottom: 60px;
+}
+#destaque {
+	color: #6e96d5;
+}
+#menu a {
+	color: #a6c6ee;
+	text-decoration: none;
+	padding: 0 5px 0 5px;
+}
+#menu .selecionado {
+	color: #6e96d5;
+}
+.email {
+	width: 300px;
+}

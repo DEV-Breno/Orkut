@@ -1,0 +1,101 @@
+body {
+	background-color: #D4DDED;
+	margin: 0px;
+	font-family: "Verdana", sans-serif;
+	line-height: 1.6em;
+	color: #444444;
+}
+#content {
+	margin: 0px auto;
+	width: 1200px;
+	height: 600px;
+}
+#infos {
+	background-color: white;
+	width: 700px;
+	margin: 20px;
+	float: left;
+	text-align: center;
+	padding: 20px;
+	height: 500px;
+}
+#infos img {
+	margin: 120px 0 20px 0;
+}
+#infos span {
+	font-weight: bold;
+	color: #e1049c;
+}
+#login {
+	background-color: #e0e7f3;
+	border: 5px solid white;
+	margin: 20px 20px 0 0;
+	width: 390px;
+	float: right;
+	height: 350px;
+	padding: 20px 0;
+	text-align: center;
+}
+#login .title {
+	margin: 20px;
+}
+#login .campo {
+	margin: 5px;
+}
+#login .campo input[type=text], #login .campo input[type=password]  {
+	width: 250px;
+	padding: 3px;
+}
+#login label[for=lembrar] {
+	font-size: 12px;
+}
+#login button {
+	padding: 5px;
+	width: 70px;
+	margin: 10px;
+}
+#login a {
+	margin: 50px;
+	display: block;
+}
+#cadastro {
+	background-color: #e0e7f3;
+	border: 5px solid white;
+	margin: 20px 20px 20px 0;
+	width: 390px;
+	float: right;
+	height: 70px;
+	padding: 20px 0;
+	text-align: center;
+}
+#cadastro .texto {
+	margin-top: 10px;
+}
+#cadastro a {
+	font-weight: bold;
+}
+footer {
+	text-align: center;
+	background-color: #c2cfe7;
+	padding: 5px;
+	margin: 0 auto;
+	width: 1150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
